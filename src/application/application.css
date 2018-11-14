@@ -1,0 +1,22 @@
+.background1{
+	-fx-background-color: #009dff;
+}
+
+.background2{
+	-fx-background-color: #237718;
+}
+
+.background3{
+	-fx-background-color: #ec0e0e;
+}
+
+.buttons{
+	-fx-background-color: #00000050;
+	-fx-background-radius: 100;
+}
+
+.slides{
+	-fx-background-color: white;
+	-fx-border-color: #c6c4c4;
+	-fx-border-width: 5;
+}
