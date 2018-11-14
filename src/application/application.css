@@ -1,13 +1,13 @@
 .background1{
-	-fx-background-color: #009dff;
+	-fx-background-color: red;
 }
 
 .background2{
-	-fx-background-color: #237718;
+	-fx-background-color: orange;
 }
 
 .background3{
-	-fx-background-color: #ec0e0e;
+	-fx-background-color: yellow;
 }
 
 .buttons{

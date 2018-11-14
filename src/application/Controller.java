@@ -30,8 +30,8 @@ public class Controller {
 	}
 
 	public void initialize() {
-		translateAnimation(0.5, panel2, 600);
-		translateAnimation(0.5, panel3, 600);
+		translateAnimation(0.1, panel2, 600);
+		translateAnimation(0.1, panel3, 600);
 	}
 
 	int showSlide = 0;
