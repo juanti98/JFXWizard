@@ -50,7 +50,10 @@ public class Controller {
 			countLabel.setText("3/3");
 
 		} else {
-			System.out.println("No more slides");
+			showSlide = 0;
+			translateAnimation(0.1, panel2, 600);
+			translateAnimation(0.5, panel3, 600);
+			countLabel.setText("1/3");
 		}
 
 	}
@@ -59,7 +62,10 @@ public class Controller {
 	void backAction() {
 
 		if (showSlide == 0) {
-			System.out.println("No more slides");
+			showSlide = 2;
+			translateAnimation(0.6, panel2, -600);
+			translateAnimation(0.5, panel3, -600);
+			countLabel.setText("3/3");
 		} else if (showSlide == 1) {
 			translateAnimation(0.5, panel2, 600);
 			showSlide--; // showSlide=0
