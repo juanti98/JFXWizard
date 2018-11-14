@@ -32,14 +32,11 @@
                   </VBox>
                </top>
                <center>
-                  <Label alignment="CENTER" prefHeight="269.0" prefWidth="216.0" styleClass="slides" stylesheets="@../../../../git/JFXwizard/5-App%20intro/src/application/application.css" text="Slide 1" textFill="#c6c4c4" BorderPane.alignment="TOP_CENTER">
-                     <font>
-                        <Font size="48.0" />
-                     </font>
+                  <Pane maxHeight="300.0" maxWidth="400.0" prefHeight="500.0" prefWidth="500.0" styleClass="image1" stylesheets="@application.css" BorderPane.alignment="TOP_CENTER">
                      <BorderPane.margin>
                         <Insets top="20.0" />
                      </BorderPane.margin>
-                  </Label>
+                  </Pane>
                </center>
             </BorderPane>
          </children>
@@ -64,14 +61,11 @@
                   </VBox>
                </top>
                <center>
-                  <Label alignment="CENTER" prefHeight="269.0" prefWidth="216.0" styleClass="slides" stylesheets="@../../../../git/JFXwizard/5-App%20intro/src/application/application.css" text="Slide 2" textFill="#c6c4c4" BorderPane.alignment="TOP_CENTER">
-                     <font>
-                        <Font size="48.0" />
-                     </font>
+                  <Pane maxHeight="300.0" maxWidth="400.0" prefHeight="500.0" prefWidth="500.0" styleClass="image2" stylesheets="@application.css" BorderPane.alignment="TOP_CENTER">
                      <BorderPane.margin>
                         <Insets top="20.0" />
                      </BorderPane.margin>
-                  </Label>
+                  </Pane>
                </center>
             </BorderPane>
          </children>
@@ -96,14 +90,11 @@
                   </VBox>
                </top>
                <center>
-                  <Label alignment="CENTER" prefHeight="269.0" prefWidth="216.0" styleClass="slides" stylesheets="@../../../../git/JFXwizard/5-App%20intro/src/application/application.css" text="Slide 3" textFill="#c6c4c4" BorderPane.alignment="TOP_CENTER">
-                     <font>
-                        <Font size="48.0" />
-                     </font>
+                  <Pane maxHeight="300.0" maxWidth="400.0" prefHeight="500.0" prefWidth="500.0" styleClass="image3" stylesheets="@application.css" BorderPane.alignment="TOP_CENTER">
                      <BorderPane.margin>
                         <Insets top="20.0" />
                      </BorderPane.margin>
-                  </Label>
+                  </Pane>
                </center>
             </BorderPane>
          </children>

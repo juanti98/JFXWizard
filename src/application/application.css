@@ -1,13 +1,13 @@
 .background1{
-	-fx-background-color: red;
+	-fx-background-color: #ff1e00;
 }
 
 .background2{
-	-fx-background-color: orange;
+	-fx-background-color: #ff6200;
 }
 
 .background3{
-	-fx-background-color: yellow;
+	-fx-background-color: #ffa200;
 }
 
 .buttons{
@@ -19,4 +19,22 @@
 	-fx-background-color: white;
 	-fx-border-color: #c6c4c4;
 	-fx-border-width: 5;
+}
+
+.image1{
+	-fx-background-image: url("http://www.patrickzephyrphoto.com/images/large/winterlight.jpg");
+	-fx-background-size: stretch ;
+	-fx-background-repeat: no-repeat;
+}
+
+.image2{
+	-fx-background-image: url("https://danielsimmsphotography.com/wp-content/uploads/2017/08/Nature-Photography.jpg");
+	-fx-background-size: stretch;
+	-fx-background-repeat: no-repeat;
+}
+
+.image3{
+	-fx-background-image: url("http://napexpo.org/paultest/wp-content/uploads/2016/03/19-nature-photography-forest.jpg");
+	-fx-background-size: stretch;
+	-fx-background-repeat: no-repeat;
 }
